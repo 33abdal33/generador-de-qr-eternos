@@ -1,0 +1,5 @@
+{
+  "name": "QR Static - Generador de QR Eternos",
+  "description": "Genera códigos QR estáticos para tus sitios web que nunca caducan. Personaliza colores, tamaños y descarga tus códigos al instante.",
+  "requestFramePermissions": []
+}
